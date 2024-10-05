@@ -1,4 +1,4 @@
-# Dicoding Collection Dashboard ✨
+# Bike Sharing Dashboard ✨
 
 ## Preview
 ![Bike Sharing Dashboard Streamlit Preview](https://github.com/RendieRYU/Proyek-Analisis-Data-Bike-Sharing-Dataset/blob/main/preview.png)
