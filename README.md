@@ -1,7 +1,7 @@
 # Dicoding Collection Dashboard ✨
 
 ## Preview
-![Bike Sharing Dashboard Streamlit Preview]('https://github.com/RendieRYU/Proyek-Analisis-Data-Bike-Sharing-Dataset/blob/main/preview.png')
+![Bike Sharing Dashboard Streamlit Preview](https://github.com/RendieRYU/Proyek-Analisis-Data-Bike-Sharing-Dataset/blob/main/preview.png)
 
 ## Struktur Direktori
 
